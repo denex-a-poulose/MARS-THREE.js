@@ -21,7 +21,7 @@ const sphere = new THREE.Mesh(
     // color:0xff0000
 
 
-    map: new THREE.TextureLoader().load('/MARS/mars.jpeg')
+    map: new THREE.TextureLoader().load('mars.jpeg')
   })
 )
 
